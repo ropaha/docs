@@ -1,25 +1,25 @@
-# Dell XPS-15 9570 
+# Dell XPS-15 9570
 
 Productsupport:  
-https://www.dell.com/support/home/de-de/product-support/product/xps-15-9570-laptop/overview
+<https://www.dell.com/support/home/de-de/product-support/product/xps-15-9570-laptop/overview>
 
 This repository contains all important configuration files of the windows system. To get them in the repostitory folder structure, we are using windows hardlinks. The local repository is located at: `%USERPROFILE%\Git\xps-15\`.
 
 # Table of contents
 
 * [Hardlinks](#hardlinks)
-    * [Creating](#creating-hardlinks)
-    * [Listing](#listing-hardlinks)
+  * [Creating](#creating-hardlinks)
+  * [Listing](#listing-hardlinks)
 * [Configuration and script files](#configuration-and-script-files)
-    * [Visual Studio Code](#visual-studio-code)
-    * [Windows Terminal](#windows-terminal-configuration)
-    * [SQLBase Server](#sqlbase-server)
-    * [Diestein](#diestein)
-    * [Signum](#signum)
+  * [Visual Studio Code](#visual-studio-code)
+  * [Windows Terminal](#windows-terminal-configuration)
+  * [SQLBase Server](#sqlbase-server)
+  * [Diestein](#diestein)
+  * [Signum](#signum)
 
 # Hardlinks
 
-Here you find a short documentation how to create and list hardlinks. You can find more information about hardlinks on [wikipedia](https://en.wikipedia.org/wiki/Hard_link). 
+Here you find a short documentation how to create and list hardlinks. You can find more information about hardlinks on [wikipedia](https://en.wikipedia.org/wiki/Hard_link).
 
 [Back to table of contents](#table-of-contents)
 
@@ -76,7 +76,7 @@ Here you find a short documentation of all config and script files added to the 
 
 ## Visual Studio Code
 
-Documentation: https://code.visualstudio.com/docs
+Documentation: <https://code.visualstudio.com/docs>
 
 |state|file location|
 |-|-|
@@ -91,7 +91,7 @@ Documentation: https://code.visualstudio.com/docs
 
 ## Windows Terminal configuration
 
-Documentation: https://docs.microsoft.com/de-de/windows/terminal/
+Documentation: <https://docs.microsoft.com/de-de/windows/terminal/>
 
 |state|file location|
 |-|-|
@@ -103,7 +103,7 @@ Documentation: https://docs.microsoft.com/de-de/windows/terminal/
 
 ## SQLBase Server
 
-https://www.opentext.com/products-and-solutions/products/specialty-technologies/opentext-gupta-development-tools-databases/opentext-gupta-sqlbase
+<https://www.opentext.com/products-and-solutions/products/specialty-technologies/opentext-gupta-development-tools-databases/opentext-gupta-sqlbase>
 
 |original|hardlink|#|
 |-|-|-|
@@ -119,7 +119,7 @@ Description:
 
 ## Diestein
 
-http://www.dietrich-software.de/  
+<http://www.dietrich-software.de/>  
 This application uses the [SQLBase server](#sqlbase-server)
 
 |original|hardlink|#|
@@ -140,7 +140,7 @@ Description:
 
 ## Signum
 
-http://www.zss.de/
+<http://www.zss.de/>
 
 |original|hardlink|#|
 |-|-|-|
@@ -154,4 +154,4 @@ Description:
 2. SignumNext settings
 3. SignumNext3d settings
 
-[Back to table of contents](#table-of-contents) 
+[Back to table of contents](#table-of-contents)
