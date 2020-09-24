@@ -5,7 +5,7 @@ Productsupport:
 
 This repository contains all important configuration files of the windows system. To get them in the repostitory folder structure, we are using windows hardlinks. The local repository is located at: `%USERPROFILE%\Git\xps-15\`.
 
-# Table of contents
+## Table of contents
 
 * [Hardlinks](#hardlinks)
   * [Creating](#creating-hardlinks)
@@ -17,13 +17,13 @@ This repository contains all important configuration files of the windows system
   * [Diestein](#diestein)
   * [Signum](#signum)
 
-# Hardlinks
+## Hardlinks
 
 Here you find a short documentation how to create and list hardlinks. You can find more information about hardlinks on [wikipedia](https://en.wikipedia.org/wiki/Hard_link).
 
 [Back to table of contents](#table-of-contents)
 
-## Creating hardlinks
+### Creating hardlinks
 
 Navigate to the repository root or subdirectory and create an hardlink.
 
@@ -46,7 +46,7 @@ Navigate to the repository root or subdirectory and create an hardlink.
 
 [Back to table of contents](#table-of-contents)
 
-## Listing hardlinks
+### Listing hardlinks
 
 List all symlinks, hardlinks and junctions recusive from current directory. Use this command in the root folder of the repository to check all hardlinks.
 
@@ -64,7 +64,7 @@ List all symlinks, hardlinks and junctions recusive from current directory. Use 
 
 [Back to table of contents](#table-of-contents)
 
-# Configuration and script files
+## Configuration and script files
 
 Here you find a short documentation of all config and script files added to the repository. Used file formats:
 
@@ -74,7 +74,7 @@ Here you find a short documentation of all config and script files added to the 
 
 [Back to table of contents](#table-of-contents)
 
-## Visual Studio Code
+### Visual Studio Code
 
 Documentation: <https://code.visualstudio.com/docs>
 
@@ -89,7 +89,7 @@ Documentation: <https://code.visualstudio.com/docs>
 
 [Back to table of contents](#table-of-contents)
 
-## Windows Terminal configuration
+### Windows Terminal configuration
 
 Documentation: <https://docs.microsoft.com/de-de/windows/terminal/>
 
@@ -101,7 +101,7 @@ Documentation: <https://docs.microsoft.com/de-de/windows/terminal/>
 
 [Back to table of contents](#table-of-contents)
 
-## SQLBase Server
+### SQLBase Server
 
 <https://www.opentext.com/products-and-solutions/products/specialty-technologies/opentext-gupta-development-tools-databases/opentext-gupta-sqlbase>
 
@@ -117,7 +117,7 @@ Description:
 
 [Back to table of contents](#table-of-contents)
 
-## Diestein
+### Diestein
 
 <http://www.dietrich-software.de/>  
 This application uses the [SQLBase server](#sqlbase-server)
@@ -138,7 +138,7 @@ Description:
 
 [Back to table of contents](#table-of-contents)
 
-## Signum
+### Signum
 
 <http://www.zss.de/>
 
