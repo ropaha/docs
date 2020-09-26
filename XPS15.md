@@ -142,16 +142,18 @@ Description:
 
 <http://www.zss.de/>
 
-| original                    | hardlink                                    | #   |
-| --------------------------- | ------------------------------------------- | --- |
-| `C:\Stein\Signum32.ini`     | `%USERPROFILE%\Git\xps-15\Signum32.ini`     | 1   |
-| `C:\Stein\SignumNext.INI`   | `%USERPROFILE%\Git\xps-15\SignumNext.INI`   | 2   |
-| `C:\Stein\SignumNext3D.INI` | `%USERPROFILE%\Git\xps-15\SignumNext3D.INI` | 3   |
+| original                                   | hardlink                                        | #   |
+| ------------------------------------------ | ----------------------------------------------- | --- |
+| `C:\Stein\Signum32.INI`                    | `%USERPROFILE%\Git\xps-15\Signum32.INI`         | 1   |
+| `C:\Stein\SignumNext.INI`                  | `%USERPROFILE%\Git\xps-15\SignumNext.INI`       | 2   |
+| `C:\Stein\SignumNext3D.INI`                | `%USERPROFILE%\Git\xps-15\SignumNext3D.INI`     | 3   |
+| `C:\Stein\SignumNext\Export\ExportDef.INI` | `%USERPROFILE%\Git\xps-15\Signum-ExportDef.INI` | 4   |
 
 Description:
 
 1. Global settings
 2. SignumNext settings
 3. SignumNext3d settings
+4. SignumNext export settings
 
 [Back to table of contents](#table-of-contents)
