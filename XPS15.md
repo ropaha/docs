@@ -151,7 +151,11 @@ Description:
 
 Description:
 
-1.  Global settings
+1.  Global settings. Relevant value:
+
+        [Bitmap]
+        BMP_Save=1 // include image in TB2 file and not as reverence
+
 2.  SignumNext settings
 3.  SignumNext3d settings
 4.  SignumNext export settings. Relevant values:
