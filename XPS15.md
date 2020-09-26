@@ -151,9 +151,14 @@ Description:
 
 Description:
 
-1. Global settings
-2. SignumNext settings
-3. SignumNext3d settings
-4. SignumNext export settings
+1.  Global settings
+2.  SignumNext settings
+3.  SignumNext3d settings
+4.  SignumNext export settings. Relevant values:
+
+        Export_Filename=Signum.jpg
+        Export_Path=C:\Users\Roga\Desktop\
+        Export_BitmapFormat=fJPG
+        Export_Size=2048
 
 [Back to table of contents](#table-of-contents)
