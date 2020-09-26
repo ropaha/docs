@@ -74,6 +74,13 @@ Here you find a short documentation of all config and script files added to the 
 
 [Back to table of contents](#table-of-contents)
 
+### Documentation repository
+
+| state    | file location                        |
+| -------- | ------------------------------------ |
+| original | `%USERPROFILE%\Git\xps-15\README.md` |
+| hardlink | `%USERPROFILE%\Git\docs\XPS15.md`    |
+
 ### Visual Studio Code
 
 Documentation: <https://code.visualstudio.com/docs>
